@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dmOpGivySmxarJ7jmRGTXP+PONxI9y0Rfcsc1ay+CNoOy4h5IDFuawd0i2nD9gL4vu/Rhr1ucXHvWAQNgN8S0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andrii.diak\\source\\repos\\SocketService\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andrii.diak\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\andrii.diak\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\andrii.diak\source\repos\SocketService\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\andrii.diak\source\repos\SocketService\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\andrii.diak\source\repos\SocketService\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\andrii.diak\source\repos\SocketService\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\Users\andrii.diak\source\repos\SocketService\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\andrii.diak\source\repos\SocketService\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\andrii.diak\source\repos\SocketService\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\andrii.diak\source\repos\SocketService\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\andrii.diak\source\repos\SocketService\Common\obj\Debug\netstandard2.0\Common.pdb
