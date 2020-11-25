@@ -1,0 +1,16 @@
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\bin\Debug\netcoreapp3.1\TGbot.exe
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\obj\Debug\netcoreapp3.1\TGbot.AssemblyInfoInputs.cache
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\obj\Debug\netcoreapp3.1\TGbot.AssemblyInfo.cs
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\bin\Debug\netcoreapp3.1\TGbot.deps.json
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\bin\Debug\netcoreapp3.1\TGbot.runtimeconfig.json
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\bin\Debug\netcoreapp3.1\TGbot.runtimeconfig.dev.json
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\bin\Debug\netcoreapp3.1\TGbot.dll
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\bin\Debug\netcoreapp3.1\TGbot.pdb
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\obj\Debug\netcoreapp3.1\TGbot.csprojAssemblyReference.cache
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\obj\Debug\netcoreapp3.1\TGbot.csproj.CoreCompileInputs.cache
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\obj\Debug\netcoreapp3.1\TGbot.csproj.CopyComplete
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\obj\Debug\netcoreapp3.1\TGbot.dll
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\obj\Debug\netcoreapp3.1\TGbot.pdb
+C:\Users\andrii.diak\source\repos\TGDatabase\TGbot\obj\Debug\netcoreapp3.1\TGbot.genruntimeconfig.cache
