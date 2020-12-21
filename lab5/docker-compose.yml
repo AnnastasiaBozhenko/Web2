@@ -1,0 +1,22 @@
+version: "3.7"
+services: 
+    tgbot:
+        image: tgbot:1.0
+        container_name: tgbot
+        networks:
+            default:
+                aliases:
+                    - tgbot.local
+
+    db:
+        image: mysql
+        command: --default-authentication-plugin=mysql_native_password
+        restart: always
+        volumes:
+            - ./db_data:/var/lib/mysql
+        environment:
+            MYSQL_ROOT_PASSWORD: 270998
+        networks:
+            default:
+                aliases:
+                    - mysql.local
